@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CPUUsage</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="stop_service">停止服务</string>
+    <string name="top_processes_one_min">一分钟内cpu使用情况排行</string>
+    <string name="top_processes_five_min">五分钟内cpu使用情况排行</string>
+    <string name="top_processes_fifteen_min">十分钟内cpu使用情况排行</string>
+    <string name="no_record">暂时没有纪录</string>
+
+</resources>
